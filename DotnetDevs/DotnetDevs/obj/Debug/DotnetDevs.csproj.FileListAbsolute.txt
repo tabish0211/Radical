@@ -1,0 +1,6 @@
+c:\users\hp\documents\visual studio 2013\Projects\DotnetDevs\DotnetDevs\bin\Debug\DotnetDevs.exe.config
+c:\users\hp\documents\visual studio 2013\Projects\DotnetDevs\DotnetDevs\bin\Debug\DotnetDevs.exe
+c:\users\hp\documents\visual studio 2013\Projects\DotnetDevs\DotnetDevs\bin\Debug\DotnetDevs.pdb
+c:\users\hp\documents\visual studio 2013\Projects\DotnetDevs\DotnetDevs\obj\Debug\DotnetDevs.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2013\Projects\DotnetDevs\DotnetDevs\obj\Debug\DotnetDevs.exe
+c:\users\hp\documents\visual studio 2013\Projects\DotnetDevs\DotnetDevs\obj\Debug\DotnetDevs.pdb
